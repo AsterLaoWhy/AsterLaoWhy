@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Text sentiment analysis/[Stock prediction models](https://github.com/AsterLaoWhy/Thinkful/blob/master/Final_Capstone1.ipynb)/Pokemon identifier
 - 📫 How to reach me: jonathon_rylatt@yahoo.com, 微信:17773150833
