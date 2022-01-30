@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Text sentiment analysis/[Crypto Swap](https://github.com/AsterLaoWhy/Thinkful/blob/master/Final_Capstone1.ipynb)/Pokemon identifier
+- 🔭 I’m currently working on HFT/[Crypto Swap](https://github.com/AsterLaoWhy/Thinkful/blob/master/Final_Capstone1.ipynb)/Navi Home AI
 - 📫 How to reach me: jonathon_rylatt@yahoo.com, 微信:17773150833
 <!--
 **AsterLaoWhy/AsterLaoWhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
